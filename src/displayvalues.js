@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css"
-import { Sform } from "./StudentsForm";
 import { list } from "./ArrayValues";
+import { Sform } from "./StudentsForm";
 
 
 export const Display=()=>{
