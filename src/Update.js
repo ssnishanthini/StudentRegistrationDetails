@@ -1,9 +1,11 @@
-// import
+import React from "react";
 
 
 
-// export const=(connect)=>
-// {
-//     const{}
-    
-// }
+export const Update=()=>
+{
+    return(
+        <>
+        s</>
+    )
+}
