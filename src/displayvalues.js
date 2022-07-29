@@ -1,7 +1,8 @@
 import React, { useEffect, useState } from "react";
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css"
-import { list } from "./ArrayValues";
 import { Sform } from "./StudentsForm";
+import { list } from "./ArrayValues";
+
 
 export const Display=()=>{
     const[tmparray,setTmparray]=useState([])
